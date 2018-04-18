@@ -4,7 +4,7 @@
 
 
 #include "Carte.h"
-
+/*lol les amis*/
 /**
  * Carte implementation
  */
